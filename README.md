@@ -72,8 +72,8 @@
   * How to run an effective iteration planning meeting
   * how to run an effective backlog refinement workshop
 * Understanding Kanban
-  * Kanban essentials
-  * Build your own personal kanban
+  * Kanban essentials https://community.scaledagile.com/s/content-file-preview?contentDocumentId=0690W000007IeK4QAK
+  * Build your own personal kanban https://community.scaledagile.com/s/content-file-preview?contentDocumentId=0690W000007IeHAQA0
   * Designing your team's kanban
 * Preparing for PI planning and the I&A
   * Understanding PI planning
