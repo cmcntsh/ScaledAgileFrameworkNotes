@@ -46,15 +46,15 @@
    * mindset
    * behavior
    * Alignment
-    * strategy
-    * aligned objectives
-    * shared understanding
+     * strategy
+     * aligned objectives
+     * shared understanding
    * Built-In Quality
-    * Establishe flow
-    * pairing and peer review
-    * collective ownership and standards
-    * automation
-    * definition of done
+     * Establishe flow
+     * pairing and peer review
+     * collective ownership and standards
+     * automation
+     * definition of done
    * Transparency
    * Program Execution
   * Lean-agile mindset
