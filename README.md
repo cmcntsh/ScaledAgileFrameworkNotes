@@ -10,7 +10,7 @@
       * product owner
       * scrum master
     * Kanban - signboard, visualizing workflow
-  * What is SAFe for lean enterprises
+  * What is SAFe for lean enterprises https://www.scaledagileframework.com/#
     * business agility
     * core competencies
     * dual operating system - efficiency and stability, speed of innovation
@@ -42,7 +42,7 @@
       * leaders - mindsets, values, principles of lean agile, lead by example
     * Essential SAFe
       
-  * SAFe core values
+  * SAFe core values https://www.scaledagileframework.com/safe-core-values/
     * mindset
     * behavior
     * Alignment
@@ -58,3 +58,6 @@
     * Transparency
     * Program Execution
   * Lean-agile mindset
+    * Mindset - fixed vs growth
+      * learn, improve, innovate
+    * Goal of Lean
