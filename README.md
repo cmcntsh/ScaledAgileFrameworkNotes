@@ -43,4 +43,6 @@
     * Essential SAFe
       
   * SAFe core values
+   * mindset
+   * behavior
   * Lean-agile mindset
