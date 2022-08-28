@@ -63,6 +63,20 @@
     * Goal of Lean
   * SAFe Lean-Agile Principles
   * SAFe in 5 minutes
-* Learning scrum process and team eventa
+* Learning scrum process and team events
+  * Scrum process https://community.scaledagile.com/s/content-file-preview?contentDocumentId=0690W000007IeL8QAK
+  * Team events https://community.scaledagile.com/s/content-file-preview?contentDocumentId=0690W000008qx0eQAA
+  * How to run an effective daily standup
+  * How to run an effective iteration review meeting
+  * How to run an effective iteration retrospective
+  * How to run an effective iteration planning meeting
+  * how to run an effective backlog refinement workshop
 * Understanding Kanban
+  * Kanban essentials
+  * Build your own personal kanban
+  * Designing your team's kanban
 * Preparing for PI planning and the I&A
+  * Understanding PI planning
+  * Introduction to PI planning: A quick overview 
+  * Writing SMART objectives
+  * Inspect and adapt overview
