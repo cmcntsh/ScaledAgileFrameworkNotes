@@ -61,3 +61,8 @@
     * Mindset - fixed vs growth
       * learn, improve, innovate
     * Goal of Lean
+  * SAFe Lean-Agile Principles
+  * SAFe in 5 minutes
+* Learning scrum process and team eventa
+* Understanding Kanban
+* Preparing for PI planning and the I&A
