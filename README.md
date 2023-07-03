@@ -6,6 +6,7 @@
     * How Agile Development Really Works (5 min) https://www.youtube.com/watch?v=1iccpf2eN1Q
     * The Secret History of Agile Development (article) https://hbr.org/2016/04/the-secret-history-of-agile-innovation
       * Scrum & Lean & Others 
+    * A Brief History of the Scaled Agile Framework (SAFe) https://medium.com/lean-agile-mindset/a-brief-history-of-the-scaled-agile-framework-633665a73a37#:~:text=The%20Scaled%20Agile%20Framework%20(SAFe,%2C%20interactive%2C%20web%20format%E2%80%9D.
     * The agile manifesto http://agilemanifesto.org/
     * Agile teams - 5-11 people
     * User stories - descriptions of desired functionality, focus on value
