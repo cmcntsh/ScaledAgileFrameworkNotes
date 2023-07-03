@@ -4,6 +4,7 @@
   * Agile basics
     * A Brief History of Agile https://www.infoworld.com/article/3655646/a-brief-history-of-the-agile-methodology.html
     * How Agile Development Really Works (5 min) https://www.youtube.com/watch?v=1iccpf2eN1Q
+    * The Secret History of Agile Development (article) https://hbr.org/2016/04/the-secret-history-of-agile-innovation
     * The agile manifesto http://agilemanifesto.org/
     * Agile teams - 5-11 people
     * User stories - descriptions of desired functionality, focus on value
