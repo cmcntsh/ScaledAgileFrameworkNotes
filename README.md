@@ -10,7 +10,10 @@
     * Scrum - team backlog, iteration planning, iteration review, iteration retrospective, value
       * product owner
       * scrum master
+      * Origin of scrum?
     * Kanban - signboard, visualizing workflow
+      * Tickets
+      * Origin of kanban?
   * What is SAFe for lean enterprises https://www.scaledagileframework.com/#
     * business agility
     * core competencies
